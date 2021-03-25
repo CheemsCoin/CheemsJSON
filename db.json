@@ -1,23 +1,25 @@
-[
-   {
-      "id":0,
-      "description":"Awarded to 5 lucky airdrop winners to mark our NFT release!",
-      "external_url":"https://cheemsfinance.cf",
-      "image":"https://imgur.com/a/7PCm2tE",
-      "name":"Airdrop Cheems"
-   },
-   {
-      "id":1,
-      "description":"Awarded to 5 lucky airdrop winners to mark our NFT release!",
-      "external_url":"https://cheemsfinance.cf",
-      "image":"https://imgur.com/a/7PCm2tE",
-      "name":"Airdrop Cheems"
-   },
-   {
-      "id":2,
-      "description":"Awarded to 5 lucky airdrop winners to mark our NFT release!",
-      "external_url":"https://cheemsfinance.cf",
-      "image":"https://imgur.com/a/7PCm2tE",
-      "name":"Airdrop Cheems"
-   }
-]
+{
+  "tokens": [
+    {
+      "id": 0,
+      "description": "My NFT",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+      "name": "My NFT 0"
+    },
+    {
+      "id": 1,
+      "description": "My NFT",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+      "name": "My NFT 1"
+    },
+    {
+      "id": 2,
+      "description": "My NFT",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+      "name": "My NFT 2"
+    }
+  ]
+}
